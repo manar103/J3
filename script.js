@@ -21,7 +21,7 @@ console.log(Math.pow(a + d - d, 2)); // 10000
 // Get Integer "2" From d Variable With 4 Methods
 console.log(Math.floor(d));
 console.log(Math.trunc(d));
-console.log(Number.parseInt(d));
+console.log(parseInt(d));
 console.log(Number.parseInt(d));
 
 // Use Variables b + d To Get This Valus
